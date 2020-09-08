@@ -1,0 +1,13 @@
+C:\LN\lenhat1\bin\Debug\netcoreapp3.1\lenhat1.exe
+C:\LN\lenhat1\bin\Debug\netcoreapp3.1\lenhat1.deps.json
+C:\LN\lenhat1\bin\Debug\netcoreapp3.1\lenhat1.runtimeconfig.json
+C:\LN\lenhat1\bin\Debug\netcoreapp3.1\lenhat1.runtimeconfig.dev.json
+C:\LN\lenhat1\bin\Debug\netcoreapp3.1\lenhat1.dll
+C:\LN\lenhat1\bin\Debug\netcoreapp3.1\lenhat1.pdb
+C:\LN\lenhat1\obj\Debug\netcoreapp3.1\lenhat1.csprojAssemblyReference.cache
+C:\LN\lenhat1\obj\Debug\netcoreapp3.1\lenhat1.AssemblyInfoInputs.cache
+C:\LN\lenhat1\obj\Debug\netcoreapp3.1\lenhat1.AssemblyInfo.cs
+C:\LN\lenhat1\obj\Debug\netcoreapp3.1\lenhat1.csproj.CoreCompileInputs.cache
+C:\LN\lenhat1\obj\Debug\netcoreapp3.1\lenhat1.dll
+C:\LN\lenhat1\obj\Debug\netcoreapp3.1\lenhat1.pdb
+C:\LN\lenhat1\obj\Debug\netcoreapp3.1\lenhat1.genruntimeconfig.cache
